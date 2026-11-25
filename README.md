@@ -37,8 +37,9 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 | 7. Non-combat NavMesh waypoint test agent | Script committed | Pending |
 | 8. Nepal-inspired world decoration scatterer | Script and setup guide committed | Pending |
 | 9. Village roads and building layout | Script and setup guide committed | Pending |
-| 10. Networking benchmark | Not started | Not started |
-| 11-14. Online systems, match loop, optimization and release | Not started | Not started |
+| 10. River and lake water surfaces | Script and setup guide committed | Pending |
+| 11. Networking benchmark | Not started | Not started |
+| 12-15. Online systems, match loop, optimization and release | Not started | Not started |
 
 ## Documentation
 
@@ -52,6 +53,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 7 navigation test agents](Documentation/PHASE_7_NAVIGATION_TEST_AGENTS.md)
 - [Phase 8 world decoration](Documentation/PHASE_8_WORLD_DECORATION.md)
 - [Phase 9 village environment](Documentation/PHASE_9_VILLAGE_ENVIRONMENT.md)
+- [Phase 10 river and lake surfaces](Documentation/PHASE_10_WATER_FEATURES.md)
 
 ## Design principles
 
