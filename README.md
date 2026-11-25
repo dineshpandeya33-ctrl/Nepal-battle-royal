@@ -43,7 +43,8 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 | 13. Network session lifecycle foundation | Script and setup guide committed | Pending |
 | 14. Network diagnostics UI foundation | Script and setup guide committed | Pending |
 | 15. Provider evaluation and adapter contract | Interface and test plan committed | Pending |
-| 16. Remote avatar marker presentation | Script and setup guide committed | Pending |\n| 17-18. Provider integration, optimization and release | Not started | Not started |
+| 16. Remote avatar marker presentation | Script and setup guide committed | Pending |\n| 17. Provider diagnostics bridge | Script and setup guide committed | Pending |
+| 18. Optimization and release | Not started | Not started |
 
 ## Documentation
 
@@ -63,6 +64,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 13 network session lifecycle](Documentation/PHASE_13_SESSION_LIFECYCLE.md)
 - [Phase 14 network diagnostics UI](Documentation/PHASE_14_NETWORK_DIAGNOSTICS.md)
 - [Phase 15 provider evaluation](Documentation/PHASE_15_PROVIDER_EVALUATION.md)\n- [Phase 16 remote avatar marker](Documentation/PHASE_16_REMOTE_AVATAR_MARKER.md)
+- [Phase 17 provider diagnostics bridge](Documentation/PHASE_17_PROVIDER_DIAGNOSTICS_BRIDGE.md)
 
 ## Design principles
 
