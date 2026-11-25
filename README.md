@@ -38,8 +38,10 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 | 8. Nepal-inspired world decoration scatterer | Script and setup guide committed | Pending |
 | 9. Village roads and building layout | Script and setup guide committed | Pending |
 | 10. River and lake water surfaces | Script and setup guide committed | Pending |
-| 11. Networking benchmark | Not started | Not started |
-| 12-15. Online systems, match loop, optimization and release | Not started | Not started |
+| 11. Pedestrian bridge environment | Script and setup guide committed | Pending |
+| 12. Network quality metrics foundation | Script and setup guide committed | Pending |
+| 13. Network session lifecycle foundation | Script and setup guide committed | Pending |
+| 14-16. Provider benchmark, online systems, optimization and release | Not started | Not started |
 
 ## Documentation
 
@@ -56,6 +58,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 10 river and lake surfaces](Documentation/PHASE_10_WATER_FEATURES.md)
 - [Phase 11 pedestrian bridges](Documentation/PHASE_11_BRIDGES.md)
 - [Phase 12 network quality metrics](Documentation/PHASE_12_NETWORK_METRICS.md)
+- [Phase 13 network session lifecycle](Documentation/PHASE_13_SESSION_LIFECYCLE.md)
 
 ## Design principles
 
