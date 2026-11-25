@@ -32,13 +32,13 @@ namespace NepalBattleRoyale.Online
         /// <summary>Call with a measured round-trip time from the networking SDK.</summary>
         public void RecordRoundTripMilliseconds(float milliseconds)
         {
-            totalSamples++;
             if (float.IsNaN(milliseconds) || float.IsInfinity(milliseconds) || milliseconds < 0f)
             {
                 RecordFailure();
                 return;
             }
 
+            totalSamples++;
             samples.Enqueue(milliseconds);
             int capacity = Mathf.Max(4, sampleCapacity);
             while (samples.Count > capacity)
