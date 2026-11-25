@@ -81,11 +81,11 @@ namespace NepalBattleRoyale.World
                 uvs.Add(new Vector2(1f, nextDistance / 5f));
 
                 triangles.Add(first);
-                triangles.Add(first + 2);
-                triangles.Add(first + 1);
                 triangles.Add(first + 1);
                 triangles.Add(first + 2);
+                triangles.Add(first + 1);
                 triangles.Add(first + 3);
+                triangles.Add(first + 2);
 
                 distanceAlong = nextDistance;
                 sections++;
@@ -135,8 +135,8 @@ namespace NepalBattleRoyale.World
                     int current = j + 1;
                     int next = ((j + 1) % segments) + 1;
                     triangles.Add(0);
-                    triangles.Add(current);
                     triangles.Add(next);
+                    triangles.Add(current);
                 }
 
                 CreateWaterObject(root, "Lake Surface " + (created + 1),
