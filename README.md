@@ -45,7 +45,8 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 2 visual pass](Documentation/PHASE_2_VISUAL_PASS.md)
 - [Phase 3 movement](Documentation/PHASE_3_MOVEMENT.md)
 - [Phase 4 character animation](Documentation/PHASE_4_CHARACTER_ANIMATION.md)
-- [Mobile input integration](Documentation/PHASE_5_MOBILE_INPUT.md)- [Main menu and HUD foundation](Documentation/PHASE_6_UI_FOUNDATION.md)
+- [Mobile input integration](Documentation/PHASE_5_MOBILE_INPUT.md)
+- [Main menu and HUD foundation](Documentation/PHASE_6_UI_FOUNDATION.md)
 - [Phase 7 navigation test agents](Documentation/PHASE_7_NAVIGATION_TEST_AGENTS.md)
 
 ## Design principles
