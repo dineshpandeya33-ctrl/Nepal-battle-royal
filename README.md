@@ -34,7 +34,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 | 4. Character animation data/driver | Scripts committed | Pending |
 | 5. Mobile joystick and camera drag input | Scripts committed | Pending |
 | 6. Main menu and match HUD foundation | Scripts committed | Pending |
-| 7. Local AI test actors | Not started | Not started |
+| 7. Non-combat NavMesh waypoint test agent | Script committed | Pending |
 | 8. Networking benchmark | Not started | Not started |
 | 9-12. Online systems, match loop, optimization and release | Not started | Not started |
 
@@ -45,7 +45,8 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 2 visual pass](Documentation/PHASE_2_VISUAL_PASS.md)
 - [Phase 3 movement](Documentation/PHASE_3_MOVEMENT.md)
 - [Phase 4 character animation](Documentation/PHASE_4_CHARACTER_ANIMATION.md)
-- [Mobile input integration](Documentation/PHASE_5_MOBILE_INPUT.md)\n- [Main menu and HUD foundation](Documentation/PHASE_6_UI_FOUNDATION.md)
+- [Mobile input integration](Documentation/PHASE_5_MOBILE_INPUT.md)- [Main menu and HUD foundation](Documentation/PHASE_6_UI_FOUNDATION.md)
+- [Phase 7 navigation test agents](Documentation/PHASE_7_NAVIGATION_TEST_AGENTS.md)
 
 ## Design principles
 
