@@ -54,6 +54,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 8 world decoration](Documentation/PHASE_8_WORLD_DECORATION.md)
 - [Phase 9 village environment](Documentation/PHASE_9_VILLAGE_ENVIRONMENT.md)
 - [Phase 10 river and lake surfaces](Documentation/PHASE_10_WATER_FEATURES.md)
+- [Phase 11 pedestrian bridges](Documentation/PHASE_11_BRIDGES.md)
 
 ## Design principles
 
