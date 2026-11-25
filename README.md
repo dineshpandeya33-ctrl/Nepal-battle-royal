@@ -41,7 +41,9 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 | 11. Pedestrian bridge environment | Script and setup guide committed | Pending |
 | 12. Network quality metrics foundation | Script and setup guide committed | Pending |
 | 13. Network session lifecycle foundation | Script and setup guide committed | Pending |
-| 14-16. Provider benchmark, online systems, optimization and release | Not started | Not started |
+| 14. Network diagnostics UI foundation | Script and setup guide committed | Pending |
+| 15. Provider evaluation and adapter contract | Interface and test plan committed | Pending |
+| 16-18. Provider integration, optimization and release | Not started | Not started |
 
 ## Documentation
 
@@ -58,7 +60,9 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 10 river and lake surfaces](Documentation/PHASE_10_WATER_FEATURES.md)
 - [Phase 11 pedestrian bridges](Documentation/PHASE_11_BRIDGES.md)
 - [Phase 12 network quality metrics](Documentation/PHASE_12_NETWORK_METRICS.md)
-- [Phase 13 network session lifecycle](Documentation/PHASE_13_SESSION_LIFECYCLE.md)\n- [Phase 14 network diagnostics UI](Documentation/PHASE_14_NETWORK_DIAGNOSTICS.md)
+- [Phase 13 network session lifecycle](Documentation/PHASE_13_SESSION_LIFECYCLE.md)
+- [Phase 14 network diagnostics UI](Documentation/PHASE_14_NETWORK_DIAGNOSTICS.md)
+- [Phase 15 provider evaluation](Documentation/PHASE_15_PROVIDER_EVALUATION.md)
 
 ## Design principles
 
