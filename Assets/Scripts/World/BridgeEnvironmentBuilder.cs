@@ -35,6 +35,9 @@ namespace NepalBattleRoyale.World
                 return;
             }
 
+            Transform root = new GameObject(GeneratedRootName).transform;
+            root.SetParent(transform, false);
+
             List<Vector3> vertices = new List<Vector3>();
             List<Vector2> uvs = new List<Vector2>();
             List<int> triangles = new List<int>();
@@ -93,11 +96,9 @@ namespace NepalBattleRoyale.World
             if (validSegments == 0)
             {
                 Debug.LogWarning("No valid bridge segments were found.", this);
+                Clear();
                 return;
             }
-
-            Transform root = new GameObject(GeneratedRootName).transform;
-            root.SetParent(transform, false);
 
             Mesh mesh = new Mesh { name = "Bridge Deck Mesh" };
             mesh.SetVertices(vertices);
@@ -138,8 +139,6 @@ namespace NepalBattleRoyale.World
             rail.transform.position = center;
             rail.transform.rotation = Quaternion.LookRotation((end - start).normalized, Vector3.up);
             rail.transform.localScale = new Vector3(railThickness, railHeight, length + railThickness);
-            Collider railCollider = rail.GetComponent<Collider>();
-            if (railCollider != null) DestroyImmediate(railCollider);
             MeshRenderer renderer = rail.GetComponent<MeshRenderer>();
             if (railMaterial != null) renderer.sharedMaterial = railMaterial;
         }
