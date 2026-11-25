@@ -35,8 +35,9 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 | 5. Mobile joystick and camera drag input | Scripts committed | Pending |
 | 6. Main menu and match HUD foundation | Scripts committed | Pending |
 | 7. Non-combat NavMesh waypoint test agent | Script committed | Pending |
-| 8. Networking benchmark | Not started | Not started |
-| 9-12. Online systems, match loop, optimization and release | Not started | Not started |
+| 8. Nepal-inspired world decoration scatterer | Script and setup guide committed | Pending |
+| 9. Networking benchmark | Not started | Not started |
+| 10-13. Online systems, match loop, optimization and release | Not started | Not started |
 
 ## Documentation
 
@@ -47,7 +48,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 4 character animation](Documentation/PHASE_4_CHARACTER_ANIMATION.md)
 - [Mobile input integration](Documentation/PHASE_5_MOBILE_INPUT.md)
 - [Main menu and HUD foundation](Documentation/PHASE_6_UI_FOUNDATION.md)
-- [Phase 7 navigation test agents](Documentation/PHASE_7_NAVIGATION_TEST_AGENTS.md)
+- [Phase 7 navigation test agents](Documentation/PHASE_7_NAVIGATION_TEST_AGENTS.md)\n- [Phase 8 world decoration](Documentation/PHASE_8_WORLD_DECORATION.md)
 
 ## Design principles
 
