@@ -66,6 +66,7 @@ This repository contains Unity C# starter scripts and implementation notes. It i
 - [Phase 15 provider evaluation](Documentation/PHASE_15_PROVIDER_EVALUATION.md)\n- [Phase 16 remote avatar marker](Documentation/PHASE_16_REMOTE_AVATAR_MARKER.md)
 - [Phase 17 provider diagnostics bridge](Documentation/PHASE_17_PROVIDER_DIAGNOSTICS_BRIDGE.md)
 - [Phase 18 mobile performance](Documentation/PHASE_18_MOBILE_PERFORMANCE.md)
+- [Phase 19 world visibility](Documentation/PHASE_19_WORLD_VISIBILITY.md)
 
 ## Design principles
 
